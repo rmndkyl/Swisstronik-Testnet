@@ -7,8 +7,7 @@ This repository contains the necessary scripts to set up and interact with a sma
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/rmndkyl/Swisstronik-Testnet.git
-    cd swisstronik-testnet
+    git clone https://github.com/rmndkyl/Swisstronik-Testnet.git && cd Swisstronik-Testnet
     ```
 
 2. **Run the Setup Script:**
@@ -22,7 +21,10 @@ This repository contains the necessary scripts to set up and interact with a sma
     - Choose **JavaScript** when prompted.
     - Use the default directory (just press Enter).
     - Press **y** to confirm any prompts.
-
+    - After everything is complete, push your files with:
+      ```sh
+      git add . && git commit -m "feat: initiated the project" && git push origin main.
+      ```
 ## Additional Information
 
 For more details and updates, subscribe to [Layer Airdrop](https://t.me/layerairdrop).
