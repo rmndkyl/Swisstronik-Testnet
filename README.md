@@ -23,7 +23,7 @@ This repository contains the necessary scripts to set up and interact with a sma
     - Press **y** to confirm any prompts.
     - After everything is complete, push your files with:
       ```sh
-      git add . && git commit -m "feat: initiated the project" && git push origin main.
+      git add . && git commit -m "feat: initiated the project" && git push origin main
       ```
 ## Additional Information
 
