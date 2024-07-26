@@ -7,7 +7,7 @@ This repository contains the necessary scripts to set up and interact with a sma
 1. **Clone the Repository:**
 
     ```sh
-    git clone https://github.com/rmndkyl/MandaNode/blob/main/Swisstronik-Testnet/swisstronik-testnet.git
+    git clone https://github.com/rmndkyl/Swisstronik-Testnet.git
     cd swisstronik-testnet
     ```
 
